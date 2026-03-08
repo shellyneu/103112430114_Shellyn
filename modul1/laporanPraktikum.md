@@ -9,13 +9,15 @@
 ```go
 package main
 
+import "fmt"
+
 func main() {
-	
+	fmt.Println("Hello World!")
 }
 ```
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn-Euriska-Putri/blob/main/week8/output/output-unguided1.png)
+![Screenshot Output Unguided 1_1](https://github.com/shellyneu/103112430114_Shellyn/modul1/output/output-soal1)
 [penjelasan]
 
